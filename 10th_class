@@ -1,0 +1,73 @@
+                # List
+ 
+# ==> Collection of List
+# ==> Homogenous---Simmlar data0
+
+# fruits = ["Apple","Banana","Mango", "Pineapple","cherry"]
+# fruits.append("Fire")
+# fruits.insert(3,"Fire")
+# fruits.pop()
+# fruits.pop(2)
+# fruits.remove("Apple")
+# print(fruits)
+# # print(fruits[4::-1])
+# # print(f"Length of list is {len(fruits)} ")
+# for i in fruits:
+#     print(i.upper())
+#     # print(i.lower())
+
+# ect = ("Iron", "Fan","Washing Machine","Frige","Ups","Laptop","Bulb","Wire","Air Conding","Speaker")
+# ect.append("Fire")
+# print(ect)
+# print(f"Length of list is {len(ect)} \n")
+# for i in ect:
+#     print(i.upper())
+
+
+# numbers = [10,200,120,15,25,255]
+# # print(f"The Maximun in Given is {max(numbers)}")
+# # print(f"The Minimun in Given is {min(numbers)}")
+# # print(f"The Sum in Given is {sum(numbers)}")
+# # # Assending Oder
+# # numbers.sort()
+# # print(numbers)
+# # # Desceing Oder
+# # numbers.sort(reverse=True)
+# # print(numbers)
+# print(numbers.count(10))
+
+# find the squre of number
+
+list = [20,40,30,10,15,20,1] 
+# Changing valuses in list
+# list[2] = 100
+# print(list)
+# print(f"The Maximun in Given list {max(list)}")
+# print(f"The Minimun in Given list {min(list)}")
+# print(f"The Sum in Given list {sum(list)}")
+# list.sort()
+# print(list)
+# list.sort(reverse=True)
+# print(list)
+# list.reverse()
+# print(list)
+# print(list.count(40))
+#  Sum Of Two Number 1st and Last number
+# print(list[0]+list[-1])
+# print(f"sum of two number: {sum(list[0:7:6])}")
+# user = int(input("Enter a Any Number: "))
+# if user in list:
+#     print("Yes Avalaible list in Number")
+# else:
+#     print("Sorry! Your Number Not My List")
+# for i in list:
+#     print(i**2)
+
+
+
+
+
+
+
+
+
